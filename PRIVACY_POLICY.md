@@ -1,70 +1,84 @@
-# Privacy Policy - BelleBook
+# Privacy Policy — BelleBook
 
-**Last updated:** April 6, 2026
+**Last updated:** October 3, 2026
 
 **Developer:** Gabriel Egea — EgeaINC
 
 ## Overview
 
-BelleBook is an appointment booking app for beauty professionals. Your privacy is important to us. This policy explains how we handle your information.
+BelleBook is an appointment book for beauty professionals. This policy explains what data the app handles, where it is kept and what is shared.
 
-## Data Collection and Storage
+## Your Agenda Stays on Your Device
 
-**BelleBook does NOT collect, transmit, or store any personal data on external servers.** All data is stored locally on your device only.
-
-### Data stored locally on your device:
-- Client names, phone numbers, and email addresses
-- Appointment details (date, time, service, price)
-- Services and their prices
-- Material/supply inventory
+**EgeaINC does not collect, store or receive your agenda data.** Everything you enter is stored only on your device:
+- Client names, phone numbers, email addresses, notes and birthdays (all optional except the name)
+- Appointments: date, time, service, professional, price charged and notes
+- Services, with their prices and durations
+- Professionals (name and color)
 - App settings and preferences
 
-### Data NOT collected:
-- We do not collect analytics or usage data
-- We do not use tracking technologies
-- We do not collect location data
-- We do not access your camera
-- We do not collect advertising identifiers
+This data never leaves your device unless you export or share it yourself, and it is deleted when you uninstall the app.
+
+## Advertising
+
+The free version of BelleBook shows ads provided by **Google AdMob**. With BelleBook PRO there are no ads, and the app does not start the ads service.
+
+To show and measure ads, Google AdMob may collect and process:
+- The device's advertising ID
+- Approximate location derived from the IP address
+- Device and app information (model, operating system, language, app version)
+- Ad interactions (impressions and taps)
+
+This data is collected and processed by Google under its own policies, not by EgeaINC. Your agenda data (clients, appointments, services) is never shared with AdMob.
+
+- How Google uses information from apps that use its services: https://policies.google.com/technologies/partner-sites
+- Google Privacy Policy: https://policies.google.com/privacy
+
+**Your choices:**
+- You can reset or delete your advertising ID, or opt out of personalized ads, in your device settings (Settings → Google → Ads, or Settings → Privacy → Ads, depending on the device).
+- In the European Economic Area, the United Kingdom and Switzerland, the app asks for your consent before showing personalized ads, and you can change your choice at any time in Settings → Ad privacy.
+- Subscribing to BelleBook PRO removes all ads.
+
+## Voice Input
+
+When you dictate an appointment, the app uses your device's speech recognition service (on most phones, Google's). The audio is handled by that service; EgeaINC does not receive or store it. The app only uses the resulting text to fill in the appointment.
 
 ## Permissions
 
-BelleBook requests the following permissions:
-
 | Permission | Purpose |
 |---|---|
-| **Contacts** | Optional. To import contacts from your phone's address book into the app |
-| **Microphone** | Optional. For voice appointment input (speech-to-text) |
-| **Notifications** | Optional. To send appointment reminders |
-| **Biometric** | Optional. To secure app access with fingerprint or face recognition |
+| **Contacts** | Optional. To import contacts from your phone's address book |
+| **Microphone** | Optional. For voice appointment input |
+| **Notifications and alarms** | Optional. For appointment reminders |
+| **Biometric** | Optional. To lock the app with fingerprint or face recognition |
+| **Internet** | For purchases through Google Play and, in the free version, for loading ads |
+| **Advertising ID** | Used by Google AdMob to show ads in the free version |
 
-All permissions are optional and requested only when you use the related feature. The app functions without granting any of these permissions.
+The optional permissions are requested only when you use the related feature, and the app works without them.
 
-## Third-Party Services
+## Other Third-Party Services
 
 ### Google Play Billing
 If you subscribe to BelleBook PRO, the payment is processed by Google Play. We do not have access to your payment information. Google's privacy policy applies to these transactions: https://policies.google.com/privacy
 
 ### WhatsApp
-BelleBook can open WhatsApp with a pre-filled message to remind clients of their appointments. This is done through Android's standard intent system — BelleBook does not access your WhatsApp data or send messages automatically.
+BelleBook can open WhatsApp with a pre-filled message, for example an appointment reminder or a birthday greeting. This is done through Android's standard intent system: BelleBook does not access your WhatsApp data or send messages automatically.
 
 ## Data Sharing
 
-We do NOT share your data with any third parties. Your data stays on your device.
+We do not share your agenda data with anyone. The only data that leaves your device is what Google AdMob collects to show ads in the free version (see Advertising) and what Google Play needs to process a purchase.
 
 ## Backup and Restore
 
-BelleBook offers a backup feature that exports your data to a local file on your device. You control where this file is stored and shared. We do not have access to your backups.
+BelleBook offers a backup feature that exports your data to a file. You choose where this file is stored and shared. We do not have access to your backups.
 
 ## Data Deletion
 
-You can delete all your data at any time by:
-- Deleting individual records within the app
-- Clearing the app's data from Android Settings
-- Uninstalling the app
+You can delete all your data at any time by deleting records within the app, clearing the app's data from Android Settings, or uninstalling the app. To delete or reset the advertising ID used for ads, use your device's Google settings.
 
 ## Children's Privacy
 
-BelleBook is not directed at children under 13. We do not knowingly collect data from children.
+BelleBook is a work tool for professionals and is not directed at children under 13. We do not knowingly collect data from children.
 
 ## Changes to This Policy
 
@@ -82,64 +96,95 @@ Or contact the developer:
 
 ---
 
-**Politica de Privacidad en Español**
+**Política de privacidad en español**
 
-# Politica de Privacidad - BelleBook
+# Política de privacidad — BelleBook
 
-**Ultima actualizacion:** 6 de abril de 2026
+**Última actualización:** 3 de octubre de 2026
 
 **Desarrollador:** Gabriel Egea — EgeaINC
 
 ## Resumen
 
-BelleBook es una aplicacion de agenda de turnos para profesionales de la belleza. Tu privacidad es importante para nosotros. Esta politica explica como manejamos tu informacion.
+BelleBook es una agenda de turnos para profesionales de la belleza. Esta política explica qué datos maneja la app, dónde se guardan y qué se comparte.
 
-## Recopilacion y almacenamiento de datos
+## Tu agenda queda en tu teléfono
 
-**BelleBook NO recopila, transmite ni almacena datos personales en servidores externos.** Todos los datos se almacenan localmente en tu dispositivo.
+**EgeaINC no recopila, guarda ni recibe los datos de tu agenda.** Todo lo que cargás se guarda solamente en tu dispositivo:
+- Nombres, teléfonos, emails, notas y cumpleaños de clientas (todo opcional salvo el nombre)
+- Turnos: fecha, hora, servicio, profesional, precio cobrado y notas
+- Servicios, con sus precios y duraciones
+- Profesionales (nombre y color)
+- Configuración de la app
 
-### Datos almacenados localmente en tu dispositivo:
-- Nombres, telefonos y emails de clientas
-- Detalles de turnos (fecha, hora, servicio, precio)
-- Servicios y sus precios
-- Inventario de materiales
-- Configuraciones de la app
+Estos datos no salen de tu teléfono salvo que vos los exportes o compartas, y se borran al desinstalar la app.
 
-### Datos que NO recopilamos:
-- No recopilamos datos de uso ni analiticas
-- No usamos tecnologias de rastreo
-- No recopilamos datos de ubicacion
-- No accedemos a tu camara
-- No recopilamos identificadores publicitarios
+## Publicidad
+
+La versión gratis de BelleBook muestra anuncios de **Google AdMob**. Con BelleBook PRO no hay publicidad y la app no inicia el servicio de anuncios.
+
+Para mostrar y medir los anuncios, Google AdMob puede recopilar y procesar:
+- El identificador de publicidad del dispositivo
+- La ubicación aproximada que se deduce de la dirección IP
+- Información del dispositivo y de la app (modelo, sistema operativo, idioma, versión)
+- Interacciones con los anuncios (impresiones y toques)
+
+Estos datos los recopila y procesa Google según sus propias políticas, no EgeaINC. Los datos de tu agenda (clientas, turnos, servicios) nunca se comparten con AdMob.
+
+- Cómo usa Google la información de las apps que usan sus servicios: https://policies.google.com/technologies/partner-sites
+- Política de privacidad de Google: https://policies.google.com/privacy
+
+**Lo que podés hacer:**
+- Restablecer o borrar tu identificador de publicidad, o desactivar los anuncios personalizados, desde los ajustes del teléfono (Ajustes → Google → Anuncios, o Ajustes → Privacidad → Anuncios, según el equipo).
+- En el Espacio Económico Europeo, el Reino Unido y Suiza, la app pide tu consentimiento antes de mostrar anuncios personalizados, y podés cambiar tu elección cuando quieras en Ajustes → Privacidad de anuncios.
+- Suscribirte a BelleBook PRO saca toda la publicidad.
+
+## Carga por voz
+
+Cuando dictás un turno, la app usa el servicio de reconocimiento de voz de tu teléfono (en la mayoría de los equipos, el de Google). El audio lo procesa ese servicio; EgeaINC no lo recibe ni lo guarda. La app sólo usa el texto resultante para completar el turno.
 
 ## Permisos
 
-| Permiso | Proposito |
+| Permiso | Para qué |
 |---|---|
-| **Contactos** | Opcional. Para importar contactos del telefono |
-| **Microfono** | Opcional. Para carga de turnos por voz |
-| **Notificaciones** | Opcional. Para recordatorios de turnos |
-| **Biometria** | Opcional. Para bloqueo con huella o reconocimiento facial |
+| **Contactos** | Opcional. Para importar contactos del teléfono |
+| **Micrófono** | Opcional. Para cargar turnos por voz |
+| **Notificaciones y alarmas** | Opcional. Para los recordatorios de turnos |
+| **Biometría** | Opcional. Para bloquear la app con huella o rostro |
+| **Internet** | Para las compras por Google Play y, en la versión gratis, para cargar los anuncios |
+| **Identificador de publicidad** | Lo usa Google AdMob para mostrar anuncios en la versión gratis |
 
-Todos los permisos son opcionales. La app funciona sin otorgar ninguno.
+Los permisos opcionales se piden sólo cuando usás la función, y la app funciona sin ellos.
 
-## Servicios de terceros
+## Otros servicios de terceros
 
 ### Google Play Billing
-Si te suscribis a BelleBook PRO, el pago es procesado por Google Play. No tenemos acceso a tu informacion de pago.
+Si te suscribís a BelleBook PRO, el pago lo procesa Google Play. No tenemos acceso a tu información de pago.
 
 ### WhatsApp
-BelleBook puede abrir WhatsApp con un mensaje pre-armado. No accedemos a tus datos de WhatsApp ni enviamos mensajes automaticamente.
+BelleBook puede abrir WhatsApp con un mensaje ya armado, por ejemplo un recordatorio de turno o un saludo de cumpleaños. No accedemos a tus datos de WhatsApp ni enviamos mensajes automáticamente.
 
 ## Compartir datos
 
-NO compartimos tus datos con terceros. Tus datos permanecen en tu dispositivo.
+No compartimos los datos de tu agenda con nadie. Lo único que sale del teléfono es lo que recopila Google AdMob para mostrar anuncios en la versión gratis (ver Publicidad) y lo que Google Play necesita para procesar una compra.
 
-## Eliminacion de datos
+## Copia de seguridad
 
-Podes eliminar todos tus datos en cualquier momento desde la app, limpiando los datos desde Ajustes de Android, o desinstalando la app.
+BelleBook permite exportar tus datos a un archivo. Vos elegís dónde se guarda y con quién lo compartís. No tenemos acceso a tus copias.
+
+## Eliminación de datos
+
+Podés borrar todos tus datos cuando quieras: desde la app, limpiando los datos de la app en los Ajustes de Android o desinstalándola. Para borrar o restablecer el identificador de publicidad, usá los ajustes de Google del teléfono.
+
+## Menores
+
+BelleBook es una herramienta de trabajo para profesionales y no está dirigida a menores de 13 años. No recopilamos a sabiendas datos de menores.
+
+## Cambios en esta política
+
+Podemos actualizar esta política. Los cambios se publican en esta página con la fecha nueva.
 
 ## Contacto
 
-Si tenes preguntas, abri un issue en:
+Si tenés preguntas, abrí un issue en:
 https://github.com/gabriel600r/bellebook-feedback/issues
