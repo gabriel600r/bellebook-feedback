@@ -21,11 +21,15 @@ Feita para cabeleireiras, manicures, esteticistas e profissionais da beleza. Org
 
 ## 📅 AGENDA INTELIGENTE
 
-Veja todos os horários do dia de uma vez. Navegue entre dias com um swipe, reagende com um toque e envie o lembrete pelo WhatsApp na hora.
+Veja todos os horários do dia de uma vez. Navegue entre dias com um swipe, reagende com um toque e envie o lembrete pelo WhatsApp na hora. Inclua vários serviços no mesmo agendamento: o tempo e o preço se somam sozinhos.
 
 ## 🎙️ AGENDAMENTO POR VOZ
 
 Com as mãos ocupadas? Agende falando. Diga "Maria vem fazer as unhas amanhã às 15h" e o BelleBook registra automaticamente.
+
+## 📲 PEDIDOS PELO WHATSAPP
+
+Compartilhe o seu link ou o seu QR code para que os seus clientes peçam um horário pelo WhatsApp, com a mensagem já escrita. E envie os horários que você ainda tem livres, prontos com um toque.
 
 ## 👩 GESTÃO DE CLIENTES
 
@@ -52,6 +56,7 @@ Proteja suas informações com impressão digital ou reconhecimento facial.
 - Agendamentos ilimitados
 - Até 50 clientes, 15 serviços e 3 profissionais
 - Agendamento por voz, lembretes WhatsApp, métricas e biometria
+- Link e QR code para receber pedidos pelo WhatsApp, e horários livres prontos para enviar
 
 ## ⭐ BELLEBOOK PRO
 

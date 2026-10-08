@@ -21,11 +21,15 @@ Built for hairdressers, nail technicians, estheticians, and beauty professionals
 
 ## 📅 SMART SCHEDULING
 
-See your full day at a glance. Swipe between days, reschedule with a tap, and send the WhatsApp reminder right away.
+See your full day at a glance. Swipe between days, reschedule with a tap, and send the WhatsApp reminder right away. Add several services to one appointment: time and price add up on their own.
 
 ## 🎙️ VOICE BOOKING
 
 Hands full? Book appointments by speaking. Say "Maria is coming for a manicure tomorrow at 3pm" and BelleBook records it automatically.
+
+## 📲 BOOKING REQUESTS ON WHATSAPP
+
+Share your link or QR code so your clients can ask for an appointment on WhatsApp, with the message already written. And send them your free times, put together in one tap.
 
 ## 👩 CLIENT MANAGEMENT
 
@@ -52,6 +56,7 @@ Protect your data with fingerprint or facial recognition.
 - Unlimited appointments
 - Up to 50 clients, 15 services and 3 professionals
 - Voice booking, WhatsApp reminders, metrics & biometrics
+- Link and QR code for booking requests on WhatsApp, and free times ready to send
 
 ## ⭐ BELLEBOOK PRO
 

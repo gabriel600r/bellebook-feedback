@@ -21,11 +21,15 @@ Progettata per parrucchiere, estetiste, nail artist e professioniste della belle
 
 ## 📅 AGENDA INTELLIGENTE
 
-Visualizza tutti gli appuntamenti del giorno in un colpo d'occhio. Scorri tra i giorni, riprogramma con un tocco e invia il promemoria via WhatsApp in un attimo.
+Visualizza tutti gli appuntamenti del giorno in un colpo d'occhio. Scorri tra i giorni, riprogramma con un tocco e invia il promemoria via WhatsApp in un attimo. Aggiungi più servizi allo stesso appuntamento: durata e prezzo si sommano da soli.
 
 ## 🎙️ APPUNTAMENTI CON LA VOCE
 
 Hai le mani occupate? Registra appuntamenti parlando. Di' "Maria viene per la manicure domani alle 15" e BelleBook lo registra in automatico.
+
+## 📲 RICHIESTE SU WHATSAPP
+
+Condividi il tuo link o il tuo codice QR perché i clienti ti chiedano un appuntamento su WhatsApp, con il messaggio già scritto. E invia gli orari che hai ancora liberi, pronti con un tocco.
 
 ## 👩 GESTIONE CLIENTI
 
@@ -56,6 +60,7 @@ BelleBook è completamente in italiano — interfaccia, notifiche, promemoria e 
 - Appuntamenti illimitati
 - Fino a 50 clienti, 15 servizi e 3 professionisti
 - Appuntamenti vocali, promemoria WhatsApp, metriche e biometria
+- Link e QR per ricevere richieste su WhatsApp, e orari liberi pronti da inviare
 
 ## ⭐ BELLEBOOK PRO
 
