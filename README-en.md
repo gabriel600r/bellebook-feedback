@@ -23,6 +23,10 @@ Built for hairdressers, nail technicians, estheticians, and beauty professionals
 
 See your full day at a glance. Swipe between days, reschedule with a tap, and send the WhatsApp reminder right away. Add several services to one appointment: time and price add up on their own.
 
+## 💻 ON YOUR COMPUTER TOO
+
+Turn the portal on in the app and open your agenda in the browser of a PC on your same Wi-Fi: the whole week on a big screen. Nothing to install on the computer and no account to create, and your data never leaves your network.
+
 ## 🎙️ VOICE BOOKING
 
 Hands full? Book appointments by speaking. Say "Maria is coming for a manicure tomorrow at 3pm" and BelleBook records it automatically.
@@ -57,10 +61,11 @@ Protect your data with fingerprint or facial recognition.
 - Up to 50 clients, 15 services and 3 professionals
 - Voice booking, WhatsApp reminders, metrics & biometrics
 - Link and QR code for booking requests on WhatsApp, and free times ready to send
+- Your agenda on your computer: day and week, over your Wi-Fi
 
 ## ⭐ BELLEBOOK PRO
 
-No ads. Unlimited clients, services and professionals, plus a backup you can carry to another phone. 7 days free; cancel anytime from Google Play.
+No ads. Unlimited clients, services and professionals, plus a backup you can carry to another phone. From your computer you also book, move and complete appointments. 7 days free; cancel anytime from Google Play.
 
 Developed by EgeaINC — Gabriel Egea.
 

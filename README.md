@@ -23,6 +23,10 @@ Diseñada para peluqueras, manicuristas, estilistas y profesionales de la estét
 
 Visualizá tus turnos del día de un vistazo. Navegá entre días con un swipe, reprogramá citas con un toque y mandá el recordatorio por WhatsApp al instante. Simple, rápida y sin complicaciones. Sumá varios servicios en un mismo turno: el tiempo y el precio se suman solos.
 
+## 💻 TAMBIÉN EN TU COMPUTADORA
+
+Prendé el portal en la app y abrí tu agenda en el navegador de una PC de tu mismo Wi-Fi: la semana entera a pantalla grande. No hay que instalar nada en la computadora ni crear una cuenta, y tus datos no salen de tu red.
+
 ## 🎙️ TURNOS POR VOZ
 
 ¿Tenés las manos ocupadas? Cargá turnos hablando. Decí "María viene a hacerse las uñas mañana a las 15" y BelleBook lo registra automáticamente.
@@ -57,10 +61,11 @@ Protegé tu información con huella dactilar o reconocimiento facial.
 - Hasta 50 clientas, 15 servicios y 3 profesionales
 - Turnos por voz, recordatorios WhatsApp, métricas y biometría
 - Enlace y QR para pedir turno por WhatsApp, y horarios libres listos para mandar
+- Tu agenda en la computadora: día y semana, por tu Wi-Fi
 
 ## ⭐ BELLEBOOK PRO
 
-Sin publicidad. Clientas, servicios y profesionales sin límite, más copia de seguridad para llevarte todo a otro teléfono. 7 días gratis; cancelás cuando quieras desde Google Play.
+Sin publicidad. Clientas, servicios y profesionales sin límite, más copia de seguridad para llevarte todo a otro teléfono. Desde la computadora también agendás, movés y completás turnos. 7 días gratis; cancelás cuando quieras desde Google Play.
 
 Desarrollada por EgeaINC — Gabriel Egea.
 

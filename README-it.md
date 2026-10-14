@@ -23,6 +23,10 @@ Progettata per parrucchiere, estetiste, nail artist e professioniste della belle
 
 Visualizza tutti gli appuntamenti del giorno in un colpo d'occhio. Scorri tra i giorni, riprogramma con un tocco e invia il promemoria via WhatsApp in un attimo. Aggiungi più servizi allo stesso appuntamento: durata e prezzo si sommano da soli.
 
+## 💻 ANCHE SUL TUO COMPUTER
+
+Attiva il portale nell'app e apri la tua agenda nel browser di un PC collegato al tuo stesso Wi-Fi: tutta la settimana a schermo grande. Non serve installare nulla sul computer né creare un account, e i tuoi dati non escono dalla tua rete.
+
 ## 🎙️ APPUNTAMENTI CON LA VOCE
 
 Hai le mani occupate? Registra appuntamenti parlando. Di' "Maria viene per la manicure domani alle 15" e BelleBook lo registra in automatico.
@@ -61,10 +65,11 @@ BelleBook è completamente in italiano — interfaccia, notifiche, promemoria e 
 - Fino a 50 clienti, 15 servizi e 3 professionisti
 - Appuntamenti vocali, promemoria WhatsApp, metriche e biometria
 - Link e QR per ricevere richieste su WhatsApp, e orari liberi pronti da inviare
+- La tua agenda sul computer: giorno e settimana, dal tuo Wi-Fi
 
 ## ⭐ BELLEBOOK PRO
 
-Senza pubblicità. Clienti, servizi e professionisti senza limite, più il backup per portare tutto su un altro telefono. 7 giorni gratis; annulli quando vuoi da Google Play.
+Senza pubblicità. Clienti, servizi e professionisti senza limite, più il backup per portare tutto su un altro telefono. Dal computer puoi anche prenotare, spostare e completare appuntamenti. 7 giorni gratis; annulli quando vuoi da Google Play.
 
 Sviluppato da EgeaINC — Gabriel Egea.
 

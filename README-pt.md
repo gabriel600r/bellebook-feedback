@@ -23,6 +23,10 @@ Feita para cabeleireiras, manicures, esteticistas e profissionais da beleza. Org
 
 Veja todos os horários do dia de uma vez. Navegue entre dias com um swipe, reagende com um toque e envie o lembrete pelo WhatsApp na hora. Inclua vários serviços no mesmo agendamento: o tempo e o preço se somam sozinhos.
 
+## 💻 TAMBÉM NO SEU COMPUTADOR
+
+Ligue o portal no app e abra a sua agenda no navegador de um PC do seu mesmo Wi-Fi: a semana inteira em tela grande. Não é preciso instalar nada no computador nem criar conta, e os seus dados não saem da sua rede.
+
 ## 🎙️ AGENDAMENTO POR VOZ
 
 Com as mãos ocupadas? Agende falando. Diga "Maria vem fazer as unhas amanhã às 15h" e o BelleBook registra automaticamente.
@@ -57,10 +61,11 @@ Proteja suas informações com impressão digital ou reconhecimento facial.
 - Até 50 clientes, 15 serviços e 3 profissionais
 - Agendamento por voz, lembretes WhatsApp, métricas e biometria
 - Link e QR code para receber pedidos pelo WhatsApp, e horários livres prontos para enviar
+- A sua agenda no computador: dia e semana, pelo seu Wi-Fi
 
 ## ⭐ BELLEBOOK PRO
 
-Sem anúncios. Clientes, serviços e profissionais sem limite, além de backup para levar tudo para outro celular. 7 dias grátis; cancele quando quiser no Google Play.
+Sem anúncios. Clientes, serviços e profissionais sem limite, além de backup para levar tudo para outro celular. Pelo computador você também agenda, move e conclui agendamentos. 7 dias grátis; cancele quando quiser no Google Play.
 
 Desenvolvido por EgeaINC — Gabriel Egea.
 
