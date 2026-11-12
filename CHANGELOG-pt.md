@@ -1,5 +1,13 @@
 # Novidades do BelleBook
 
+## 0.15.0 — novembro 2026
+**Produtos, cartão fidelidade e os seus meses nas Métricas**
+
+- Produtos: cadastre o que você vende em Mais › Produtos e some ao cobrar, na tela de cada agendamento.
+- Cartão fidelidade: um prêmio a cada tantas visitas. Ative em Mais › Cartão fidelidade e acompanhe as visitas na ficha de cada cliente.
+- Métricas: veja qualquer mês anterior com as setas e, em Ano, compare mês a mês.
+- Correções menores.
+
 ## 0.14.1 — outubro 2026
 - Correções menores.
 
