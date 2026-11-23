@@ -1,5 +1,8 @@
 # Novedades de BelleBook
 
+## 0.16.1 — noviembre 2026
+- Arreglos menores.
+
 ## 0.16.0 — noviembre 2026
 **Formas de pago: cuánto entró por cada una**
 
