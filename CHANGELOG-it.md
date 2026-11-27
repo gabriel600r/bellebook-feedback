@@ -1,5 +1,12 @@
 # Novità di BelleBook
 
+## 0.17.0 — novembre 2026
+**Chi ti deve e quanto**
+
+- Quando completi ogni appuntamento, indica se ha pagato una parte o se ti deve tutto.
+- Incassa dopo, tutto o a rate, e ricorda il saldo su WhatsApp con un messaggio che puoi modificare.
+- In Clienti, il filtro «Devono» mostra chi ti deve e quanto; in Statistiche, il totale.
+
 ## 0.16.1 — novembre 2026
 - Correzioni minori.
 

@@ -1,5 +1,12 @@
 # Novedades de BelleBook
 
+## 0.17.0 — noviembre 2026
+**Quién te debe y cuánto**
+
+- Al completar cada turno, marcá si pagó una parte o si te quedó debiendo todo.
+- Cobrá después, todo o de a partes, y recordale el saldo por WhatsApp con un mensaje que podés editar.
+- En Clientes, el filtro «Deben» te muestra quién te debe y cuánto; en Métricas, el total.
+
 ## 0.16.1 — noviembre 2026
 - Arreglos menores.
 

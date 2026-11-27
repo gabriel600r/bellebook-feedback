@@ -1,5 +1,12 @@
 # What's new in BelleBook
 
+## 0.17.0 — November 2026
+**Who owes you, and how much**
+
+- When you complete each appointment, mark whether they paid part of it or owe you all of it.
+- Collect later, all at once or in parts, and remind them of the balance on WhatsApp with a message you can edit.
+- In Clients, the “Owe” filter shows who owes you and how much; in Metrics, the total.
+
 ## 0.16.1 — November 2026
 - Minor fixes.
 
